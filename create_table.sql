@@ -1,3 +1,5 @@
+USE money-tracker-api;
+
 CREATE TABLE records (
     id INT AUTO_INCREMENT PRIMARY KEY NOT NULL,
     name VARCHAR(25) NOT NULL,
