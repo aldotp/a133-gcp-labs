@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // TODO: Sesuaikan dengan base url front-end yang digunakan
-$config['base_url'] = 'http://frontend.submission-mgce-aldotp.et.r.appspot.com';
+$config['base_url'] = 'https://frontend.submission-mgce-aldotp.et.r.appspot.com';
 
 /*
 |--------------------------------------------------------------------------
