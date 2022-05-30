@@ -1,4 +1,4 @@
-require('@google-cloud/debug-agent').start()
+require('@google-cloud/debug-agent').start({ serviceContext: { enableCanary: true } });
 
 const express = require('express')
 const app = express()
